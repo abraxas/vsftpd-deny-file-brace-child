@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/vsftpd-deny-file-brace-child">vsftpd-deny-file-brace-child</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/vsftpd-deny-file-brace-child"><strong>https://abraxaslabs.tech/research/vsftpd-deny-file-brace-child</strong></a>
+</p>
+
 
 # vsftpd-deny-file-brace-child
 
